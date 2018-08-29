@@ -11,6 +11,7 @@ For example, take a random selection of datasets:
 * List of English Stopwords
 * Air Pollution Measurement Data
 * List of AWS & GCP Data Center Regions
+* Public financial data from 2 different municipalities
 
 Before DataLibrary, you would most likely access these datasets from different sources. Beyond the technical challenges, each provider would typically use different schema patterns, naming conventions, and formatting.
 
@@ -32,7 +33,7 @@ DataLibrary supports datasets that contain copywrights, premium, and paid datase
 * Acting as a proxy where you bring your own license/token, not maintaining a local copy.
 * Providing an API or local library for formatting raw data from a dataset template we have.
 * Acting as a paid, *data* app store where we provide access to a dataset that generates revenue for a provider.
-
+* Providing generic utilities for cleaning & working with your own data.
 
 
 ---
