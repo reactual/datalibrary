@@ -4,7 +4,7 @@
 ## Overview
 DataLibrary was created to bring datasets from a range of subjects into a single API. Our primary goal is consistency and ease of use.
 
-For example, take random selection of datasets:
+For example, take a random selection of datasets:
 
 * List of Metric Units
 * List of US States
@@ -15,7 +15,7 @@ For example, take random selection of datasets:
 Before DataLibrary, you would most likely access these datasets from different sources. Beyond the technical challenges, each provider would typically use different schema patterns, naming conventions, and formatting.
 
 DataLibrary exists not only to bring datasets together into a single source, but also clean and reformat data when possible.
-When possible, especially for common subjects, data could be combined from several sources to create a new, richer
+For common subjects, data could be combined from several sources to create a new, richer
 dataset, with fields and metadata carefully renamed for a better experience.
 
 ## Copywright Notes
