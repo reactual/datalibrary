@@ -1,0 +1,24 @@
+{
+  "name": "datalibrary-server",
+  "version": "0.0.1",
+  "description":
+    "The server datalibrary, an API for better datasets -- https://datalibrary.app",
+  "main": "build/index.js",
+  "repository": "https://github.com/reactual/datalibrary",
+  "author": "reactual <github@reactual.io>",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "build:prod": "webpack --run-prod",
+    "build:dev": "webpack --run-dev",
+    "dev": "webpack --run-dev --watch"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.0.0",
+    "@babel/preset-env": "^7.0.0",
+    "babel-loader": "^8.0.0",
+    "uglifyjs-webpack-plugin": "^1.3.0",
+    "webpack": "^4.17.1",
+    "webpack-command": "^0.4.1"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "datalibrary",
+  "version": "0.0.1",
+  "description":
+    "Monorepo for Reactual DataLibrary - an API for better datasets -- https://datalibrary.app",
+  "repository": "https://github.com/reactual/datalibrary",
+  "author": "reactual <github@reactual.io>",
+  "license": "MIT",
+  "private": true,
+  "workspaces": ["packages/*", "services/*", "datasets/*"],
+  "scripts": {
+    "bootstrap": "lerna bootstrap"
+  },
+  "devDependencies": {
+    "lerna": "^3.2.1"
+  }
+}
