@@ -19,13 +19,13 @@ DataLibrary exists not only to bring datasets together into a single source, but
 For common subjects, data could be combined from several sources to create a new, richer
 dataset, with fields and metadata carefully renamed for a better experience.
 
-## Copywright Notes
+## Copyright Notes
 > **DataLibrary's goal is to make data more accessible.**
-> We take licensing and copywrights seriously.
+> We take licensing and copyrights seriously.
 
 For datasets where a copyright wouldn't apply, DataLibrary will typically host a formatted version of the data directly. This especially applies to common or infrequently changing datasets.
 
-DataLibrary supports datasets that contain copywrights, premium, and paid datasets, when approved by a provider.
+DataLibrary supports datasets that contain copyrights, premium, and paid datasets, when approved by a provider.
 
 **A few example strategies:**
 
