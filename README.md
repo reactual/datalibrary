@@ -19,6 +19,9 @@ DataLibrary exists not only to bring datasets together into a single source, but
 For common subjects, data could be combined from several sources to create a new, richer
 dataset, with fields and metadata carefully renamed for a better experience.
 
+## Access
+The DataLibrary API will initially be available via GraphQL, with a RESTful HTTP API following. A frontend for searching datasets and other features will be available also.
+
 ## Copyright Notes
 > **DataLibrary's goal is to make data more accessible.**
 > We take licensing and copyrights seriously.
