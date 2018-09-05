@@ -1,5 +1,5 @@
 # DataLibrary
-> An API for better datasets -- https://datalibrary.app
+> An API for better datasets -- https://datalibrary.com
 
 ## Overview
 DataLibrary was created to bring datasets from a range of subjects into a single API. Our primary goal is consistency and ease of use.
