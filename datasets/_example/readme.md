@@ -1,5 +1,5 @@
 ## An example dataset for DataLibrary
-This dataset acts as a design guide for a typical dataset used within [DataLibrary](https://datalibrary.app).
+This dataset acts as a design guide for a typical dataset used within [DataLibrary](https://datalibrary.com).
 
 
 ## Note
